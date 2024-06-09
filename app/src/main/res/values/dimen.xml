@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    Elevation    -->
+    <dimen name="elevation">6.dp</dimen>
+
+<!--    BarHeight    -->
+    <dimen name="top_bar_height">60.dp</dimen>
+    <dimen name="bottom_bar_height">50.dp</dimen>
+    <dimen name="tab_bar_height">50.dp</dimen>
+
+<!--    Padding    -->
+    <dimen name="tiny_padding">2.dp</dimen>
+    <dimen name="extra_small_padding">5.dp</dimen>
+    <dimen name="small_padding">10.dp</dimen>
+    <dimen name="medium_padding">15.dp</dimen>
+    <dimen name="large_padding">20.dp</dimen>
+
+<!--    UserIconSize    -->
+    <dimen name="user_icon_size">36.dp</dimen>
+
+<!--    IconSize    -->
+    <dimen name="tiny_icon_size">8.dp</dimen>
+    <dimen name="small_icon_size">25.dp</dimen>
+
+<!--    ArticleTitleHeihgt    -->
+    <dimen name="article_title_height">60.dp</dimen>
+
+<!--    ArticleSourceLogoSize    -->
+    <dimen name="article_source_logo_size">36.dp</dimen>
+
+<!--    TagListHeight    -->
+    <dimen name="tag_list_height">100.dp</dimen>
+
+</resources>

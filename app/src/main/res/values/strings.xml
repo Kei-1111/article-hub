@@ -1,0 +1,44 @@
+<resources>
+<!--    App Name    -->
+    <string name="app_name">ArticleHub</string>
+
+<!--    HomeScreen    -->
+    <string name="home_screen_title">最新の記事</string>
+    <string name="home_screen_label">ホーム</string>
+
+<!--    ArticleScreen    -->
+    <string name="article_screen_title">戻る</string>
+    <string name="article_screen_label">記事</string>
+
+<!--    FavoriteScreen   -->
+    <string name="favorite_screen_title">お気に入りの記事</string>
+    <string name="favorite_screen_label">お気に入り</string>
+
+<!--    KeywordSetting    -->
+    <string name="keyword_setting_screen_title">検索キーワードの設定</string>
+    <string name="keyword_setting_screen_label">キーワード設定</string>
+
+<!--    TabList    -->
+    <string name="qiita">Qiita</string>
+    <string name="zenn">Zenn</string>
+    <string name="note">note</string>
+
+<!--    DropdownMenuList    -->
+    <string name="tutorial">ArticleHubの使い方</string>
+    <string name="keyword_setting">検索キーワードの設定</string>
+
+<!--    ArticleCardText    -->
+    <string name="create_day">作成日</string>
+    <string name="tag">タグ</string>
+
+<!--    HomeScreenError    -->
+    <string name="error">ERROR</string>
+
+<!--    QuerySettingScreen    -->
+    <string name="qiita_desciption">Qiitaは入力したタグを含む記事を検索します。\nタグを複数設定した場合は、どちらかのタグを含む記事を検索します。</string>
+    <string name="qiita_tag_list">検索するタグ：</string>
+    <string name="query_none">なし</string>
+    <string name="zenn_description">Zennは入力した文字を記事のタイトルに含む記事を検索します。</string>
+    <string name="query">"記事に含む文字： "</string>
+    <string name="note_description">Noteは入力した文字で検索します。</string>
+</resources>
